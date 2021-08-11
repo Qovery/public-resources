@@ -1,0 +1,45 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 288.02623 283.57241">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a299ff;
+      }
+
+      .cls-2 {
+        fill: #7366ff;
+      }
+
+      .cls-3 {
+        fill: #5219ff;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="181.96172" y1="106.33625" x2="181.96172" y2="163.69331" gradientUnits="userSpaceOnUse">
+      <stop offset="0.25" stop-color="#7366ff"/>
+      <stop offset="1" stop-color="#5219ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="132.29029" y1="181.41534" x2="193.68749" y2="181.41534" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7366ff"/>
+      <stop offset="1" stop-color="#a299ff"/>
+    </linearGradient>
+  </defs>
+  <title>color_normal_logomark</title>
+  <g>
+    <polygon class="cls-1" points="193.681 150.164 188.943 179.964 217.127 190.773 217.122 163.696 193.681 150.164"/>
+    <polygon class="cls-2" points="70.893 177.232 70.893 106.336 94.345 113.773 94.345 163.691 132.29 185.599 135.126 196.407 132.29 212.679 70.893 177.232"/>
+    <polygon class="cls-2" points="132.296 97.972 94.345 119.876 70.893 106.336 132.282 70.893 193.681 106.336 180.727 116.658 170.243 119.881 132.296 97.972"/>
+    <polygon class="cls-3" points="217.133 190.764 193.681 204.313 170.243 190.764 170.243 163.693 217.133 190.764"/>
+    <polygon class="cls-1" points="132.296 114.776 132.282 141.849 155.742 155.385 155.738 128.307 132.296 114.776"/>
+    <polygon class="cls-3" points="132.282 141.849 108.839 155.384 132.287 168.927 155.742 155.385 132.282 141.849"/>
+    <polygon class="cls-2" points="132.296 114.776 108.841 128.317 108.839 155.384 132.282 141.849 132.296 114.776"/>
+    <polygon class="cls-4" points="193.681 106.336 193.681 150.164 170.243 163.693 170.243 119.881 193.681 106.336"/>
+    <polygon class="cls-5" points="193.687 150.151 132.29 185.599 132.29 212.679 193.681 177.228 193.687 150.151"/>
+  </g>
+</svg>
